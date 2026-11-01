@@ -24,22 +24,77 @@ v)Package Diagram
 vi)Sequence Diagram
 # DIAGRAMS:
 # USECASE DIAGRAM
+
 <img width="1193" height="1065" alt="image" src="https://github.com/user-attachments/assets/cad1d467-c5d0-4da0-9dfb-71e6e1396691" />
+
+
+
+
+
+
+
+
+
+
 
 
 # CLASS DIAGRAM
 <img width="1217" height="1022" alt="image" src="https://github.com/user-attachments/assets/3f470156-458c-4639-8ce4-437322df04b9" />
 
 
+
+
+
+
+
+
+
+
+
+
+
 # ACTIVITY DIAGRAM
 <img width="1117" height="1038" alt="image" src="https://github.com/user-attachments/assets/06bc0d27-0889-49e4-b632-0cf4a17a57e5" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 # COMMUNICATION DIAGRAM
 <img width="1027" height="847" alt="image" src="https://github.com/user-attachments/assets/c539d280-7222-4185-bf57-a1a1564b24bc" />
 
+
+
+
+
+
+
+
+
+
+
+
 # PACKAGE DIAGRAM
 <img width="1201" height="1005" alt="image" src="https://github.com/user-attachments/assets/cf763ef2-619c-4b82-957e-f00dd5700ad4" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 # SEQUENCE DIAGRAM
